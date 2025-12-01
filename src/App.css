@@ -127,3 +127,18 @@
 a.underlined:hover {
   border-bottom: 1px dotted #fff;
 }
+
+/* ------------------------------ */
+/* ✔ Added Logo Image Styling     */
+/* ------------------------------ */
+
+.logo-img {
+  height: 48px;     /* adjust this to resize logo */
+  width: auto;
+  display: block;
+}
+
+.logo a {
+  display: inline-flex;
+  align-items: center;
+}
